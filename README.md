@@ -1,2 +1,1 @@
-# Project_Visual
-Nơi chứa source code đang làm dở dang :v
+#Ly Van Nam abcxyz
